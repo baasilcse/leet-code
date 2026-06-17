@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/baasilcse/leet-code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/baasilcse/leet-code/tree/master/0014-longest-common-prefix) |
+| [0704-binary-search](https://github.com/baasilcse/leet-code/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baasilcse/leet-code/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/baasilcse/leet-code/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
