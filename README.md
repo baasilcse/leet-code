@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/baasilcse/leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/baasilcse/leet-code/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baasilcse/leet-code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/baasilcse/leet-code/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/baasilcse/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/baasilcse/leet-code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
